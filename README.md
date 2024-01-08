@@ -1,1 +1,1 @@
-# SQL-Project-
+# Weekly-SQL-Assignment
