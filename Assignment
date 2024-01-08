@@ -1,0 +1,8 @@
+Assignment-1
+
+1) From the following table write a SQL query to find when the movie ‘Academy Dinosaur’ was released. Return movie release year.
+2) Which company does William from Investors Table work in? 
+3) In the address table, there are multiple fields. What is the district with a city id of 463? 
+4) What is the last name of the actor in the actor award table whose actor_id = 21
+5) Which is the country in the country table with a country_id of 104
+
