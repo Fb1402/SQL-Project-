@@ -1,0 +1,7 @@
+Assignment-2
+
+1. How many last names in the list have a length of precisely six characters?
+2. List the third name from the full names (concatenated first and last names) of actors who have received awards. Trim any extra spaces from the names.
+3. Write an SQL query to determine the total number of unique films (distinct film IDs) available in the inventory across all stores.
+4. Write an SQL query to retrieve the addresses and their corresponding postal codes for addresses located in the district "California."
+5. Write an SQL query to retrieve the addresses and their corresponding phone numbers for addresses with postal codes greater than or equal to 500
