@@ -1,12 +1,12 @@
 -- Rquired Database 
 use mavenmovies; 
 
--- Que1 - From the following table, write a SQL query to find when the movie ‘Academy Dinosaur’ was released. Return movie release year.
+-- Q1 - From the following table, write a SQL query to find when the movie ‘Academy Dinosaur’ was released. Return movie release year.
 
 -- Required Table:
 SELECT * FROM film;
 
--- Query:
+-- Query/Solutions:
 SELECT 
     release_year
 FROM
@@ -15,12 +15,12 @@ WHERE
     title = 'Academy Dinosaur';
     
     
--- Que2 - Which company does William from Investors Table work in?  
+-- Q2 - Which company does William from Investors Table work in?  
 
 -- Required Table:
 select * from investor;
 
--- Query:
+-- Query/Solutions:
 SELECT 
     company_name
 FROM
@@ -29,12 +29,12 @@ WHERE
     first_name = 'William';
     
     
--- Que3 - In the address table, there are multiple fields. What is the district with a city id of 463? 
+-- Q3 - In the address table, there are multiple fields. What is the district with a city id of 463? 
 
 -- Required Table:
 select * from address;
 
--- Query:
+-- Query/Solutions:
 SELECT 
     district
 FROM
@@ -43,12 +43,12 @@ WHERE
     city_id = 463;
     
     
--- Que4 - What is the last name of the actor in the actor award table whose actor_id = 21
+-- Q4 - What is the last name of the actor in the actor award table whose actor_id = 21
 
 -- Required Table:
 select * from actor_award;
 
--- Query:
+-- Query/Solutions:
 SELECT 
     last_name
 FROM
@@ -57,12 +57,12 @@ WHERE
     actor_id = 21;
     
     
--- Que-5 Which is the country in the country table with a country_id of 104
+-- Q5 - Which is the country in the country table with a country_id of 104
 
 -- Required Table:
 select * from country;
 
--- Query:
+-- Query/Solutions:
 SELECT 
    country
 FROM
