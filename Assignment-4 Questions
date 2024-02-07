@@ -1,0 +1,7 @@
+Week_4 : Assignment-4
+
+1. Find  the film id , Film Titles and the sum of their replacement cost from film table , grouping them by film id and film title and Ordering by Total Cost.
+2. Find the category id and  the Average Rental Duration for Each Film Category from film_category and  film table,grouping and Ordering by Category ID.
+3. Find the title and length from the film table ordering by the length in descending order and get the top 5 films.
+4. Find the customer id and  the total amount made by each customer from payment table grouping by customer id and display only those with total payments exceeding $100.
+5. Find the list of store id and  the total sales amount from the store , staff and payment table , grouping them by store id  display only those stores with total sales exceeding $2000. 
